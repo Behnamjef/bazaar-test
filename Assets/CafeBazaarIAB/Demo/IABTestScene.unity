@@ -341,7 +341,7 @@ PrefabInstance:
     - target: {fileID: 637027217949140119, guid: 829849b78d8fab8409e402b0196a783b,
         type: 3}
       propertyPath: m_Text
-      value: Query SkuDetails
+      value: 3-Query SkuDetails
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 829849b78d8fab8409e402b0196a783b, type: 3}
@@ -526,8 +526,9 @@ MonoBehaviour:
   scroll: {fileID: 359017704}
   publicKey: MIHNMA0GCSqGSIb3DQEBAQUAA4G7ADCBtwKBrwCeG280+KR3tx2B9JbacRUJUyJ4S6F36314ifBOT7wQoRRAvNt+TVGkZJc8CcRANPywbAdt8PBtKTSXetj4c0Zjs2ubM4YylMgRb7KPVvzhqruq6b+FhaE877EjQALQpXmvCob6UthpDvXvYMBS4ZsuKSifcKmc9ys+ywK2vAvMv8Of0xQgUTiX7LWEw4NjnUvNvi32pgSFPL13Iwhr5sN7xKGnI39vrlynxrJKm0ECAwEAAQ==
   skus:
-  - Shop_Gem_1
-  - Shop_Gem_2
+  - test
+  - shop_gem_pack_1
+  - shop_gem_pack_2
 --- !u!1001 &680859476
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -648,7 +649,7 @@ PrefabInstance:
     - target: {fileID: 637027217949140119, guid: 829849b78d8fab8409e402b0196a783b,
         type: 3}
       propertyPath: m_Text
-      value: Query Inventory
+      value: 2-Query Inventory
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 829849b78d8fab8409e402b0196a783b, type: 3}
@@ -1425,7 +1426,7 @@ PrefabInstance:
     - target: {fileID: 637027217949140119, guid: 829849b78d8fab8409e402b0196a783b,
         type: 3}
       propertyPath: m_Text
-      value: Consume item id
+      value: 6-Consume item id
       objectReference: {fileID: 0}
     - target: {fileID: 2248675784413048888, guid: 829849b78d8fab8409e402b0196a783b,
         type: 3}
@@ -1608,7 +1609,7 @@ PrefabInstance:
     - target: {fileID: 637027217949140119, guid: 829849b78d8fab8409e402b0196a783b,
         type: 3}
       propertyPath: m_Text
-      value: Query Purchases
+      value: 4-Query Purchases
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 829849b78d8fab8409e402b0196a783b, type: 3}
@@ -1750,7 +1751,7 @@ PrefabInstance:
     - target: {fileID: 637027217949140119, guid: 829849b78d8fab8409e402b0196a783b,
         type: 3}
       propertyPath: m_Text
-      value: Purchase item id
+      value: 5-Purchase item id
       objectReference: {fileID: 0}
     - target: {fileID: 2248675784413048888, guid: 829849b78d8fab8409e402b0196a783b,
         type: 3}
@@ -1933,7 +1934,7 @@ PrefabInstance:
     - target: {fileID: 637027217949140119, guid: 829849b78d8fab8409e402b0196a783b,
         type: 3}
       propertyPath: m_Text
-      value: Init
+      value: 1-Init
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 829849b78d8fab8409e402b0196a783b, type: 3}
